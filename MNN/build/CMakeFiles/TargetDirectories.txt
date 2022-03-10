@@ -1,0 +1,3 @@
+/home/lwj-hdu/shz/NAS_KD_NEW/MNN/build/CMakeFiles/rebuild_cache.dir
+/home/lwj-hdu/shz/NAS_KD_NEW/MNN/build/CMakeFiles/edit_cache.dir
+/home/lwj-hdu/shz/NAS_KD_NEW/MNN/build/CMakeFiles/niu2.dir
